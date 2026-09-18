@@ -1,0 +1,8 @@
+{
+  "appId": "com.kahut.bank",
+  "appName": "Kahut Bank",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}
